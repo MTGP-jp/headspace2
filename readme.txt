@@ -1,3 +1,26 @@
+お世話になります。
+GitHub 最初の利用です。
+この場をお借りすることが不適切かもしれませんので、先に謝っておきます。
+
+headspace2　は　WordPress のプラグインです。以前から利用させていただいてます。
+メンテナンスされなくなったものを、php7.4で、一部機能を動くようにしたものです。
+
+重要
+ここにアップしたものを、あなたのサイトに、初めてアップロードし、wordpress で使用するとエラーになります。
+WordPressの動作が不安定になり、
+あなたのサイトの WardPress から「重大なエラー」というメール送られてきます。
+
+動作条件
+・以前に　headspace2　使用したことがある。
+・データベースの option に　headspace_version　に　10 という値がある。（たぶん）
+
+以上
+
+
+
+
+
+
 === HeadSpace2 SEO ===
 Contributors: johnny5
 Tags: seo, post, page, meta-data, title, keywords, tags, tagging, google, head, meta, crazyegg, piwik, awstats, analytics, webmaster, feedburner
